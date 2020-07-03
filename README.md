@@ -1,38 +1,61 @@
 # PapiteBox
 
-## Requisitos funcionais
+![Pré-visualização](docs/foto-da-tela.png)
 
-- Permitir que os clientes de um restaurante ou negócio local palpitem sobre o atendimento, produto, e etc. Em troca, o cliente recebe um cupom (desconto, condição especial)
+## Pré-requisitos
 
-## Requisitos não funcionais
+Você precisa estar com o [Node (versão LTS)](https://nodejs.org/pt-br/) e o [NPM](https://www.npmjs.com/) instalados na máquina.
 
-- R$ 49,90 por mês
+Na pasta do projeto, insira estes comandos:
 
-## Observações
+```
+npm install
+npm run dev
+```
 
-- Se houver dez clientes serão R$ 499,00 por mês
+## Colocando em produção
 
-## Diagramas
+Este projeto pode ser colocado em produção utilizando o [Vercel](https://nextjs.org/docs/deployment) (sem configurações extras)
+
+## Documentação
+
+### Requisitos funcionais
+
+- Permitir que os clientes de um restaurante ou negócio local palpitem sobre o atendimento, produto, e entre outros. Em troca, o cliente recebe um cupom (desconto, condição especial)
+
+### Requisitos não funcionais
+
+- Valor estipulado para cobrança por cliente poderá ser de R$ 49,90 por mês
+
+### Diagramas
 
 ![Diagrama](docs/diagrama-01.svg)
 
-## Templates
+## Leiaute
 
-![Templates](docs/palpite-box.png)
+![Primeira página](docs/tela-figma-1.png)
+
+![Primeira página](docs/tela-figma-2.png)
+
+[Você também pode visualizar pelo figma.](https://www.figma.com/file/AlqUXj3i0Owebv7bs1cDYZ/palpite-box?node-id=0%3A1)
 
 ## Relatório
 
-A aplicação está sendo desenvolvida em NextJS, utilizando para estilizar o tailwindcss, onde é a minha primeira vez na utilização de ambos, e futuramente posso praticar CSS removendo tailwindcss e escrevendo tudo na mão.
+A aplicação foi construída utilizando:
 
-Também está sendo desenvolvido quatro páginas:
+- [NodeJS](https://nodejs.org/pt-br/)
+- [NPM](https://www.npmjs.com/)
+- [NextJS](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Figma](https://www.figma.com/)
+- [PostCSS](https://postcss.org/)
 
-- Página Inicial
-- Sobre
-- Contato
-- Pesquisa
+Todos os passos foram aprendidos durante o workshop [Semana Fullstack Master](https://lp.devpleno.com/semanafsm/) do [DevPleno](https://www.devpleno.com/).
 
-Onde podemos componentizar
+## Autor
 
-- Cabeçalho
-- Rodapé
-- Leiaute
+**Matheus Inocêncio Lopes** - [Linkedin](https://www.linkedin.com/in/matheusilopes)
+
+## Licença
+
+Este repositório está sob a [licença MIT](LICENCE.md).

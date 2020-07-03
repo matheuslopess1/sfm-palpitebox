@@ -1,1 +1,31 @@
-<mxfile host="Electron" modified="2020-06-30T20:19:39.868Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.3.1 Chrome/83.0.4103.119 Electron/9.0.5 Safari/537.36" etag="wYM344VU2cLIbDM0MLYV" version="13.3.1" type="device"><diagram id="H8jtpRcB1_h_NbG5gX6i" name="Page-1">3VZLj5swEP41HCsFyIMc89r0sCsh5dCzF2bBrfGwZsijv742OAHi3SitVu2qOUT2N+Ox55vxZ7xwVRy3ipX5E6YgvGCUHr1w7QVBNI30vwFOLTAZjVsgUzxtIb8DdvwnWHBk0ZqnUA0cCVEQL4dgglJCQgOMKYWHodsLiuGuJcvAAXYJEy76jaeUW9SfzjvDV+BZbreOgllrKNjZ2WZS5SzFQw8KN164UojUjorjCoTh7sxLu+7hHevlYAok3bOAdnH1+pTFax5hwV/LYr7Jv0zaKHsmapvwohQ8YcT3qPGYiZITLPFoc6DTmRiFtUzBxB554fKQa7ddyRJjPehO0FhOhdAzXw/ds9rj70ERHHuQPfsWsABSJ+1irWNLo+0jf2rnh15VzlTnvYKc/ZhthOwSueNKDyxdv0Hd1KEuFkxykTPT7oa9LWKm6frXzAXRZ6POnzmkQKqvnZ2iohwzlExsOnQ5pK3zeUQsLVnfgehkNYTVhEMqX1CSNfqariXIdGEUQs8lSmiRB25SabZ4l/oKa5XAjfxsesRUBnTDz2qjyf1mIRUIcyOHkvThVZk5Db0SXOcORje5Ztopmpa00gzrQiwSQqVJM22p9UM8smcQMVacOErt8oxEWGgHYQxLlvzImoKuUJh1Olr40vx6MRaCZ2Yt4cdfimgyuBNj90qEf/NGRA73a5TYlL4iVivWlOH/oT8MPhf/vvsQuhLl6MUNcflz8ZjeKR6TO8WjR+nkDUrP2N0aY3eIkevMuuc5uHpk5lelavO2q/qfKdeBZleBxleBWmKcQE3ZL2m/1Ql62n1tte7dJ2u4+QU=</diagram></mxfile>
+<mxfile host="" modified="2020-07-03T18:56:28.620Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36" etag="DPAyLRbP3CIr_FqdBf1P" version="13.1.3">
+    <diagram id="H8jtpRcB1_h_NbG5gX6i" name="Page-1">
+        <mxGraphModel dx="564" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="tSPsqMgPDi8omiqpm9Eh-5" value="Aplicativo PalpiteBox" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="tSPsqMgPDi8omiqpm9Eh-6" value="Planilha do Google" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="tSPsqMgPDi8omiqpm9Eh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;" parent="1" source="tSPsqMgPDi8omiqpm9Eh-7" target="tSPsqMgPDi8omiqpm9Eh-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tSPsqMgPDi8omiqpm9Eh-7" value="&lt;font color=&quot;#000000&quot;&gt;Cliente final&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="40" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="tSPsqMgPDi8omiqpm9Eh-8" value="&lt;font color=&quot;#000000&quot;&gt;Dono restaurante&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="325" y="40" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="tSPsqMgPDi8omiqpm9Eh-15" value="" style="endArrow=none;html=1;fontSize=12;" parent="1" source="tSPsqMgPDi8omiqpm9Eh-6" target="tSPsqMgPDi8omiqpm9Eh-5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="190" as="sourcePoint"/>
+                        <mxPoint x="470" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
