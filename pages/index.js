@@ -9,6 +9,9 @@ const Index = () => {
         <Link href="/about">
           <a>Sobre</a>
         </Link>
+        <Link href="/contact">
+          <a>Contato</a>
+        </Link>
       </div>
     </div>
   );
