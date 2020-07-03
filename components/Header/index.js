@@ -1,8 +1,9 @@
 import React from "react";
+import styles from "./styles.module.css";
 
 const Header = () => {
   return (
-    <div className="bg-gray-200 p-4">
+    <div className={styles.wrapper}>
       <div className="container mx-auto">PalpiteBox</div>
     </div>
   );
