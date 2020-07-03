@@ -19,3 +19,20 @@
 ## Templates
 
 ![Templates](docs/palpite-box.png)
+
+## Relatório
+
+A aplicação está sendo desenvolvida em NextJS, utilizando para estilizar o tailwindcss, onde é a minha primeira vez na utilização de ambos, e futuramente posso praticar CSS removendo tailwindcss e escrevendo tudo na mão.
+
+Também está sendo desenvolvido quatro páginas:
+
+- Página Inicial
+- Sobre
+- Contato
+- Pesquisa
+
+Onde podemos componentizar
+
+- Cabeçalho
+- Rodapé
+- Leiaute
