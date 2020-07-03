@@ -18,4 +18,4 @@
 
 ## Templates
 
-![Templates](docs/figma-template.png)
+![Templates](docs/palpite-box.png)
