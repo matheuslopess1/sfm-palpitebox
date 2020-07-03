@@ -24,6 +24,7 @@
   "homepage": "https://github.com/matheuslopess1/sfm-palpitebox#readme",
   "dependencies": {
     "next": "^9.4.4",
+    "postcss-import": "^12.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "tailwindcss": "^1.4.6"
