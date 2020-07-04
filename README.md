@@ -58,4 +58,4 @@ Todos os passos foram aprendidos durante o workshop [Semana Fullstack Master](ht
 
 ## Licença
 
-Este repositório está sob a [licença MIT](LICENCE).
+Este repositório está sob a [licença MIT](LICENSE).
