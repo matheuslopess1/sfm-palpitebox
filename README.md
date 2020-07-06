@@ -49,6 +49,7 @@ A aplicação foi construída utilizando:
 - [TailwindCSS](https://tailwindcss.com/)
 - [Figma](https://www.figma.com/)
 - [PostCSS](https://postcss.org/)
+- [Google Spreadsheet](https://github.com/theoephraim/node-google-spreadsheet)
 
 Todos os passos foram aprendidos durante o workshop [Semana Fullstack Master](https://lp.devpleno.com/semanafsm/) do [DevPleno](https://www.devpleno.com/).
 
