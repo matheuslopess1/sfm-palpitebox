@@ -1,16 +1,20 @@
 import React from "react";
 import Link from "next/link";
+import PageTitle from "../components/PageTitle";
 
 const About = () => {
   return (
-    <div>
-      <h1>Sobre</h1>
+    <>
+      <PageTitle title="Sobre" />
       <div>
-        <Link href="/">
-          <a>Página Inicial</a>
-        </Link>
+        <h1>Sobre</h1>
+        <div>
+          <Link href="/">
+            <a>Página Inicial</a>
+          </Link>
+        </div>
       </div>
-    </div>
+    </>
   );
 };
 

@@ -1,16 +1,20 @@
 import React from "react";
 import Link from "next/link";
+import PageTitle from "../components/PageTitle";
 
 const Contact = () => {
   return (
-    <div>
-      <h1>Contato</h1>
+    <>
+      <PageTitle title="Contato" />
       <div>
-        <Link href="/">
-          <a>Página Inicial</a>
-        </Link>
+        <h1>Contato</h1>
+        <div>
+          <Link href="/">
+            <a>Página Inicial</a>
+          </Link>
+        </div>
       </div>
-    </div>
+    </>
   );
 };
 
