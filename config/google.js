@@ -1,5 +1,7 @@
+const fromBase64 = (value) => new Buffer(value, "base64").toString("ascii");
+
 export const credentials = {
-  private_key: process.env.GOOGLE_CREDENTIALS_PRIVATE_KEY,
+  private_key: fromBase64(process.env.GOOGLE_CREDENTIALS_PRIVATE_KEY),
   client_email: process.env.GOOGLE_CREDENTIALS_CLIENT_EMAIL,
 };
 
